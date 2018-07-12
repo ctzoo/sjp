@@ -15,6 +15,7 @@
 
 ## Myinfo
 [Myinfo文档地址](https://myinfo-api.app.gov.sg/dev/landing)  
+[接入说明文档](https://github.com/ctzoo/myinfo_server/blob/master/README.md)  
 
 ## CBS
 ### V2版本
@@ -26,3 +27,10 @@
 | ./doc/CBS/V2 | Sample - Bank Report Version 2.pdf    | cbs pdf报表样例          |
 | ./doc/CBS/V2 | DTS_Client_Specification_20140605.pdf | 中行DTS格式              |
 | ./doc/CBS/V2 | *.txt                                 | DTS文本样例，只做4个文件 |
+
+### V3版本  
+| 路径         | 文件名                                                       | 说明                |
+| ------------ | ------------------------------------------------------------ | ------------------- |
+| ./doc/CBS/V3 | B2B Specification - Consumer Enq Report V3 (v1.3 revisedv3).pdf | cbs V3报文          |
+| ./doc/CBS/V3 | CBS input -扩充V3.xlsx                                       | cbs V3导入excel格式 |
+| ./doc/CBS/V3 | Sample _Bank Report v3.0 (070218).pdf                        | cbs V3 pdf报表样例  |
